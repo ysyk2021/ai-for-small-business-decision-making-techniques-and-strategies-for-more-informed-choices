@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI for Small Business Decision Making
-==============================================================
+
 
 Artificial Intelligence (AI) has become a game-changer for small business decision making. AI has the potential to optimize business processes, improve customer experiences, and provide valuable insights for more informed choices. This chapter will cover the definition of AI, the types of AI used for decision making, and the benefits of AI for small businesses.
 

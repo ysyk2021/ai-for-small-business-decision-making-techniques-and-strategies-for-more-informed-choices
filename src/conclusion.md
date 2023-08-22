@@ -1,4 +1,4 @@
-# Conclusion
+
 
 In this book, we have discussed various techniques and strategies for leveraging AI to make more informed decisions in small businesses. From understanding the basics of AI to implementing AI models, this book has provided a comprehensive guide to AI-powered decision making.
 

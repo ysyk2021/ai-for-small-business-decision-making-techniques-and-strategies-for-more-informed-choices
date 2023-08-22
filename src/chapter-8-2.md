@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-=======================================================================================================================
+
 
 As small businesses rely more on AI-driven decision making, it is crucial to develop governance frameworks that promote responsible and ethical use of AI. In this chapter, we will discuss best practices for developing governance frameworks to ensure responsible AI use in small businesses.
 

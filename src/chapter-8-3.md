@@ -1,5 +1,4 @@
-Legal and Regulatory Considerations for AI Implementation in Small Businesses
-=======================================================================================================================================
+
 
 As small businesses increasingly implement AI to make more informed decisions, it is essential to consider ethical and governance implications. In this chapter, we will discuss the legal and regulatory considerations for AI implementation in small businesses.
 

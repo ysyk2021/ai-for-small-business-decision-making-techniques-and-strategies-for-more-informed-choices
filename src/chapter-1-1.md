@@ -1,5 +1,4 @@
-Why AI is important for small business decision making
-====================================================================
+
 
 Artificial Intelligence (AI) has the potential to transform small business decision making by providing valuable insights, automating repetitive tasks, and improving customer experience. It enables small businesses to optimize processes, increase revenue, and make more informed choices. In this chapter, we will explore why AI is crucial for small business decision making.
 

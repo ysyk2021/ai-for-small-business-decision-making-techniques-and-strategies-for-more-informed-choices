@@ -1,5 +1,4 @@
-Types of AI used for decision making
-====================================================================================================
+
 
 Artificial Intelligence (AI) has become an essential tool for small business decision making, enabling businesses to optimize processes, enhance customer experience, and make more informed choices. In this chapter, we will explore the three types of AI used for decision making: Narrow or Weak AI, General or Strong AI, and Super AI.
 

@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Small Businesses
-===================================================================================================================
+
 
 Choosing the right AI tools and technologies is essential for small businesses seeking to leverage AI to improve decision making. In this chapter, we will provide an overview of some of the most common AI tools and technologies available for small businesses.
 
