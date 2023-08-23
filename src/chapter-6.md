@@ -1,5 +1,4 @@
 
-
 In this chapter, we will focus on implementing AI models for decision making. We will explore different AI models used for decision making, best practices for model development and testing, and incorporating AI models into your decision-making process.
 
 Overview of AI models for decision making

@@ -1,5 +1,4 @@
 
-
 As small businesses continue to adopt AI solutions, it is crucial to consider the ethical implications and develop governance frameworks that ensure responsible AI use. In this chapter, we will discuss the ethical considerations, governance frameworks, and legal and regulatory considerations involved in AI implementation for small businesses.
 
 Ethical Considerations for AI Implementation in Small Businesses

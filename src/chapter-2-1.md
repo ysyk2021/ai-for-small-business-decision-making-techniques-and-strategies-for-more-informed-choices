@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. AI has become an essential tool for small business decision making, enabling businesses to automate processes, enhance customer experience, and optimize operations.
 
 Types of AI

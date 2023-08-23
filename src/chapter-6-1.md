@@ -1,5 +1,4 @@
 
-
 AI models are increasingly becoming a valuable tool for decision-making across all industries. In this section, we will provide an overview of different types of AI models that are commonly used for decision making.
 
 Machine Learning

@@ -1,5 +1,4 @@
 
-
 Evaluating AI performance and refining your approach is critical to ensure that your AI models are effective in driving decision making in small businesses. In this chapter, we will discuss best practices for evaluating AI performance and refining your approach.
 
 Assessing the Effectiveness of AI Models for Decision Making
