@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations for AI Implementation in Small Businesses
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical considerations that small businesses need to address when implementing AI for decision making. Understanding and integrating ethical principles is essential to ensure responsible and morally sound use of AI technologies.
 

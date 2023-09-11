@@ -1,5 +1,4 @@
-Chapter 6: Incorporating AI Models into Your Decision-Making Process
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for incorporating AI models into the decision-making process of small businesses. By effectively integrating AI models, small businesses can enhance their decision-making capabilities, improve accuracy, and achieve more informed choices that drive success in a competitive market.
 

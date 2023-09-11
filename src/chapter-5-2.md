@@ -1,5 +1,4 @@
-Chapter 3: Best Practices for Data Collection and Preparation
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the best practices for data collection and preparation in the context of AI-driven decision making for small businesses. Proper data collection and preparation are crucial steps to ensure that the data used in AI models is accurate, relevant, and reliable.
 

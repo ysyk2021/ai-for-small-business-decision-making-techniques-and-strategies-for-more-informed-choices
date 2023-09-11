@@ -1,5 +1,4 @@
-Chapter 10: Key Factors to Consider When Choosing AI Tools
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the key factors that small businesses should consider when choosing AI tools for their decision-making processes. Selecting the right AI tools is crucial for ensuring optimal performance, compatibility with existing systems, and long-term success in leveraging AI for more informed choices.
 

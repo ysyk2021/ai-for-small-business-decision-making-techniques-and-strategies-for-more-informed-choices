@@ -1,5 +1,4 @@
-Chapter 6: Developing Governance Frameworks to Ensure Responsible AI Use
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of developing governance frameworks to ensure responsible AI use in small business decision making. Establishing clear guidelines, policies, and processes helps mitigate risks, promote ethical practices, and foster trust in AI-driven decision making.
 

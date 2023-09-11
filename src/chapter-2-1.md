@@ -1,5 +1,4 @@
-Chapter 1: Definition of AI
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of Artificial Intelligence (AI) and explore its key components and applications. Understanding the fundamental concepts of AI is crucial for small businesses seeking to leverage its techniques and strategies for more informed choices.
 

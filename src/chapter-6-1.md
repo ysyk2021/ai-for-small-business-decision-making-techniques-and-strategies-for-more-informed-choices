@@ -1,5 +1,4 @@
-Chapter 4: Overview of AI Models for Decision Making
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of various AI models that can be employed for decision making in small businesses. These models utilize artificial intelligence techniques to analyze data, generate insights, and support informed decision-making processes. Understanding these AI models can empower small businesses to leverage their capabilities effectively and make more informed choices.
 

@@ -1,5 +1,4 @@
-Chapter 5: Best Practices for Model Development and Testing
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for model development and testing in the context of small business decision making using artificial intelligence (AI). By following these practices, small businesses can ensure the accuracy, reliability, and effectiveness of their AI models, leading to more informed choices and better decision-making processes.
 

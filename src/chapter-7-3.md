@@ -1,5 +1,4 @@
-Chapter 12: Continuously Adapting and Improving Your AI Approach
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of continuously adapting and improving your AI approach in small business decision making. As technology advances and business needs evolve, it is crucial to stay agile and proactive in refining AI models and strategies for more informed choices.
 

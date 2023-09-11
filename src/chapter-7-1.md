@@ -1,5 +1,4 @@
-Chapter 8: Assessing the Effectiveness of AI Models for Decision Making
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of assessing the effectiveness of AI models for decision making in small businesses. Evaluating the performance and reliability of AI models is crucial to ensure that the decisions made based on these models are accurate, reliable, and aligned with the business's goals.
 

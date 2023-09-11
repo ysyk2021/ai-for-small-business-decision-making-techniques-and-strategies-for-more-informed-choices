@@ -1,5 +1,4 @@
-Chapter 4: Types of AI Used for Decision Making
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of Artificial Intelligence (AI) that are commonly used for decision making. Understanding these types will help small businesses identify the most suitable AI techniques and strategies to support their decision-making processes.
 

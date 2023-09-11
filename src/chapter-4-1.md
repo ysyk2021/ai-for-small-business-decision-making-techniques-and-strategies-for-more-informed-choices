@@ -1,5 +1,4 @@
-Chapter 3: Overview of AI Tools and Technologies for Small Businesses
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of various AI tools and technologies that are beneficial for small businesses in making more informed choices. These tools and technologies leverage artificial intelligence (AI) to enhance decision-making processes, automate tasks, and optimize business operations, enabling small businesses to stay competitive in today's rapidly evolving landscape.
 

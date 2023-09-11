@@ -1,5 +1,4 @@
-Chapter 7: Benefits of AI for Small Businesses
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that Artificial Intelligence (AI) offers to small businesses. By leveraging AI techniques and strategies, small businesses can enhance their decision-making processes, improve operational efficiency, and gain a competitive edge in today's fast-paced business landscape.
 
